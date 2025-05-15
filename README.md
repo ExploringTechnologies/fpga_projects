@@ -1,9 +1,10 @@
-# fpga_projects
+# FPGA_PROJECTS #
 
-**Introduction**
-This FPGA projects repository should contains all things that to be known about FPGAs. It will also countains some projects of my own.
+## Introduction ##
 
-The dev kit I'm using is the Tang nano 20k (
+This repository will contains all things that is to be known about FPGAs. It will also contains projects of my own.
+I will try to keep every trace of what i've done so far. 
+
+* The dev kit I'm using is the **Tang nano 20k**  *I'm using the Gowin IDE for now. (A situable alternative will be to use a open source toolchain but it's still in the experimentation)*
 
 
-fpga projects for training and keep trace of it
