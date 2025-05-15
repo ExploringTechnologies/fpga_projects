@@ -7,5 +7,6 @@
     <FileList>
         <File path="src/ main.vhd" type="file.vhdl" enable="1"/>
         <File path="src/main.cst" type="file.cst" enable="1"/>
+        <File path="src/main.sdc" type="file.sdc" enable="1"/>
     </FileList>
 </Project>

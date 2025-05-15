@@ -1,0 +1,14 @@
+-d /home/loksart/Documents/project/fpga_projects/blinking_led/impl/gwsynthesis/blinking_led.vg
+-p GW2AR-18C-QFN88-8
+-pn GW2AR-LV18QN88C8/I7
+-cst /home/loksart/Documents/project/fpga_projects/blinking_led/src/main.cst
+-cfg /home/loksart/Documents/project/fpga_projects/blinking_led/impl/pnr/device.cfg
+-sdc /home/loksart/Documents/project/fpga_projects/blinking_led/src/main.sdc
+-bit
+-tr
+-ph
+-timing
+-cst_error
+-correct_hold 1
+-route_maxfan 23
+-global_freq 100.000

@@ -1,0 +1,10 @@
+[
+ {
+  "InstFile" : "/home/loksart/Documents/project/fpga_projects/blinking_led/src/ main.vhd",
+  "InstLine" : 5,
+  "InstName" : "led_blinker",
+  "ModuleFile" : "/home/loksart/Documents/project/fpga_projects/blinking_led/src/ main.vhd",
+  "ModuleLine" : 5,
+  "ModuleName" : "led_blinker"
+ }
+]
