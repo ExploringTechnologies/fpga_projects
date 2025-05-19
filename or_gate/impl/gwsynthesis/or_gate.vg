@@ -1,0 +1,41 @@
+//
+//Written by GowinSynthesis
+//Tool Version "V1.9.9.03 Education"
+//Mon May 19 16:16:06 2025
+
+//Source file index table:
+//file0 "\/home/loksart/Documents/project_github/fpga_projects/or_gate/src/or_gate.vhd"
+`pragma protect begin_protected
+`pragma protect version="2.3"
+`pragma protect author="default"
+`pragma protect author_info="default"
+`pragma protect encrypt_agent="GOWIN"
+`pragma protect encrypt_agent_info="GOWIN Encrypt Version 2.3"
+
+`pragma protect encoding=(enctype="base64", line_length=76, bytes=256)
+`pragma protect key_keyowner="GOWIN",key_keyname="GWK2023-09",key_method="rsa"
+`pragma protect key_block
+TURbVbJzgwbVttf8Gb+DTC+qhDAuXCkTnnQr6MkgJEXAn0V9c1O0l1k03ie5FafoPq/qG8Y+jNZC
+OuM7CL8joh9udjkf+bjIDjsNxYukqV2aqwCRr+XEG/RCdaXlHot8/KAZVQ8k/m7IFcJMfuDVuz9x
+iMhVMW78P00yOQimA20YikFXidM/gSD7zjvDat8LJKPo3C5h7/KXdHSliu0FtISasp9T3EOvk3sR
+qTd0B4cSx3EM9JoS3kw3wC3i1L2/9Opc/5ELg/Z3NBxaLFdpPJKxvphJDHBW7MDoo50u8RJtsJkG
+PDs/xRbmsiopNdZHLg7Sv4WkweP5WNChBOvCrg==
+
+`pragma protect encoding=(enctype="base64", line_length=76, bytes=656)
+`pragma protect data_keyowner="default-ip-vendor"
+`pragma protect data_keyname="default-ip-key"
+`pragma protect data_method="aes128-cfb"
+`pragma protect data_block
+iTnosJZnfLOn+fMd5dmjOiwsWKolCb0sRi6ZjRkmPFZoOesVETur+fOpthBwOVmb+iwUYPI8Z1L0
+8EaLomQGJJoGRcmuI1Lf+dObbb4K2R+R0IxJGtEjtDBItPmaXDqPZ/fdleN3JQ6YYo4BdD0ZsoF4
+OWopyFyUkjM9uIrNugK4AcABvVFe/QLzvspRoUSN82GQP7DCA9qFB916ewZLMVVjMyJ+pZc+u+WL
+Ji1dEBmAzNjrmoKYMg+aO6ByxfA4NFldjJrU+ipH7Nt2j0XnLUmbZoC0xKwtjhsk0qOp25t/lRAI
+ESoWP4mExed3myAQr18QTMW5FTwfbiqDIUFBTnbUQtuiYRozi57bRdNCZVz2PGLKviZzpHvEtccc
+6QMuxButrKQZj5hbEbs4EHKdGdlGSVO2d1jCtlwIuTwb2ZuMFjVPKO2P6Kaawif/aZzZMNFoXMeU
+skq+nrsdYWzfChOk8uBq9ndmuX6AMl5OdTjHOwV1de9x9U8vgO7LfoipENgCQKc9QVEvlbFPpTzU
+bt9qMPbVXzOb1DlRDJKuoESH4L9PlB9cWI/vwogK3NvprHLGtjLUMHOAPSsBQeKXSJwy//xN15Oj
+Hn75nmcIuUcvCYji7ykiMnGDR+rIDmF1Zw+CxzISsiUVy36CTbPkvdfmuqZV26nSxsX6P1pmQivX
++6LmIEHUCUFjcBww5DzLZK4tcJUCdlmtTXGwGbV8MLFHC0oksQqL/G418q2+aVWh8HIUUtVMRUGd
+yvtEWblvUjnOJZg7irk5Xzh1EDUzbGHD7VDv8G/DBjHtMLQxn6fg2Ls9BjNvzOK67HvHKiOpGa/L
+F7BhR5lp9sCbRPFnGNx7DroWQsM+bNyoHK/Rx6o=
+`pragma protect end_protected

@@ -1,0 +1,4 @@
+GowinSynthesis start
+Running parser ...
+ERROR (EX5997) : Cannot open VHDL file '/home/loksart/Documents/fpga/fpga_project/and_gate/src/and_gate.vhd'
+GowinSynthesis finish

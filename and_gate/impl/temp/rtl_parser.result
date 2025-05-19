@@ -1,0 +1,10 @@
+[
+ {
+  "InstFile" : "/home/loksart/Documents/project_github/fpga_projects/and_gate/src/and_gate.vhd",
+  "InstLine" : 4,
+  "InstName" : "and_gate",
+  "ModuleFile" : "/home/loksart/Documents/project_github/fpga_projects/and_gate/src/and_gate.vhd",
+  "ModuleLine" : 4,
+  "ModuleName" : "and_gate"
+ }
+]
