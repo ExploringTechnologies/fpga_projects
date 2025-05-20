@@ -28,3 +28,6 @@ begin
     o_LED_1 <= r_LED_1; 
 
 end architecture rtl; 
+
+
+
