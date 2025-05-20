@@ -10,7 +10,7 @@ entity led_blinker is
     );
 end led_blinker;
 
-architecture Behavorial of led_blinker is
+architecture rtl of led_blinker is
     -- Constants
         -- CLK_FREQ is a constant of integer type it hold the value of 27000000
     constant CLK_FREQ  :   integer := 27000000;
@@ -44,4 +44,4 @@ begin
     -- Assign the LED state to the output
     o_led <= led_state;
     
-end Behavorial;
+end rtl;
