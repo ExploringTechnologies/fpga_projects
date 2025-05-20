@@ -1,0 +1,10 @@
+[
+ {
+  "InstFile" : "/home/loksart/Documents/project_github/fpga_projects/clocked_logic_flipflop/src/clocked_logic_flipflop.vhd",
+  "InstLine" : 6,
+  "InstName" : "Clocked_Logic",
+  "ModuleFile" : "/home/loksart/Documents/project_github/fpga_projects/clocked_logic_flipflop/src/clocked_logic_flipflop.vhd",
+  "ModuleLine" : 6,
+  "ModuleName" : "Clocked_Logic"
+ }
+]
